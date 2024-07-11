@@ -1,20 +1,18 @@
 # RFID_handhed_reader  
 
-
-
-# Final Project: Design Documentation v2.0
-
-## Overview
-
-This project involves the design and implementation of a comprehensive system integrating various hardware components and communication protocols. The core elements include an RFID reader, an OLED display, a buzzer, and an ESP32 microcontroller for Wi-Fi and MQTT communication.
-
 ## Table of Contents
 - [Overview](#overview)
 - [Hardware Components](#hardware-components)
 - [Software Components](#software-components)
 - [System Architecture](#system-architecture)
-- [Circuit Diagram](#circuit-diagram)
-- [Contribution](#contributing)
+- [Schematics](#schematics)
+- [Final results](#final-results)
+- [Contribution](#contribution)
+## Overview
+
+This project involves the design and implementation of a comprehensive system integrating various hardware components and communication protocols. The core elements include an RFID reader, an OLED display, a buzzer, and an ESP32 microcontroller for Wi-Fi and MQTT communication.
+
+
 
 
 ## Hardware Components
@@ -44,14 +42,10 @@ The system consists of the following modules:
 ## Schematics
 ### main pcb
 
-![](RFID_handhed_reader/images/pcb/schematic_main.png)
+![schematic](https://github.com/NethmalWDI/RFID_handhed_reader/images/pcb/schematic_main.png)
 ### antenna PCB
 ![](images/pcb/schematic_rfid.png)
 
 ## Final results
 ![](images/pcb/soldered_pcb_main.png)
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name

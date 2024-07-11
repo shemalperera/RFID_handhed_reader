@@ -42,10 +42,18 @@ The system consists of the following modules:
 ## Schematics
 ### main pcb
 
-![schematic](https://github.com/NethmalWDI/RFID_handhed_reader/images/pcb/schematic_main.png)
-### antenna PCB
-![](images/pcb/schematic_rfid.png)
+![schematic](https://github.com/NethmalWDI/RFID_handhed_reader/blob/main/Images/pcb/schematic_main.png)
+### antenna pcb
+![](https://github.com/NethmalWDI/RFID_handhed_reader/blob/main/Images/pcb/schematic_rfid.png)
 
 ## Final results
-![](images/pcb/soldered_pcb_main.png)
+![](https://github.com/NethmalWDI/RFID_handhed_reader/blob/main/Images/enclosure/final%20assembly.jpg)
+soldered pcbs
+![](https://github.com/NethmalWDI/RFID_handhed_reader/blob/main/Images/pcb/soldered_pcb_main.jpg)
+![](https://github.com/NethmalWDI/RFID_handhed_reader/blob/main/Images/pcb/soldered_pcb_rfid.jpg)
+
+## Contribution  
+
+[Shemal Perera](https://github.com/shemalperera)   
+[Imasha Nethmal](https://github.com/NethmalWDI)
 

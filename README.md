@@ -43,12 +43,12 @@ The system consists of the following modules:
 ## Schematics
 ### Main pcb
 <p align="center">
-  <img src="https://github.com/NethmalWDI/RFID_handhed_reader/blob/main/Images/pcb/schematic_main.png" alt="Final Assembly">
+  <img src="https://github.com/NethmalWDI/RFID_handhed_reader/blob/main/PCB_Design/Main%20Circuit/MAIN_ISO.jpg" alt="Final Assembly">
 </p>
 
 ### Reader PCB
 <p align="center">
-  <img src="https://github.com/NethmalWDI/RFID_handhed_reader/blob/main/Images/pcb/schematic_rfid.png" alt="Final Assembly">
+  <img src="https://github.com/NethmalWDI/RFID_handhed_reader/blob/main/PCB_Design/RFID%20Circuit/RFID_ISO.jpg" alt="Final Assembly">
 </p>
 
 ## Contributors  
